@@ -97,7 +97,7 @@
     gud "^1.0.0"
     warning "^4.0.3"
 
-"@jupyterlab/application@^3.0.0":
+"@jupyterlab/application@^3.0.6":
   version "3.0.6"
   resolved "https://registry.yarnpkg.com/@jupyterlab/application/-/application-3.0.6.tgz#9729bd42b24f0191859a34711d7e2f8353d371d1"
   integrity sha512-BjFmJGciO984RkxV2ZUtr7z3VEquV+OI+mwzrlM80tUDvxMBjiTn8qUFeOGLnEf1t2MbEnxGXu1cnkpK6nUVNg==
