@@ -2,8 +2,7 @@
 
 ![Github Actions Status](https://github.com/leungjch/jupyter-extension-astronomy/workflows/Build/badge.svg)[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/leungjch/jupyter-extension-astronomy/main?urlpath=lab)
 
-Random astronomthe day
-
+A random astronomy pic of the day.
 
 
 ## Requirements
